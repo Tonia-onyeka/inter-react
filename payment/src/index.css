@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+ 
+ body{
+font-family: 'Roboto Slab', serif;
+margin: 0;
+font-size:13px;
+ }
+ .navbar{
+     background-color: #021d3b;
+    
+ }
+ .navbar-brand{
+    font-family: 'Lobster', cursive; 
+ }
+ .nav-link{
+    font-family: 'Roboto Slab', serif;
+    font-size:14px;
+    margin-right:20px;
+    
+ }
+ .navbar-nav{
+       padding-right:200px;
+      
+ }
+.hstyle{
+  color:#fa1f1f;  
+  font-family: 'Lobster', cursive; 
+}
+.pstyle{
+    color:#021d3b;  
+  font-family: 'Roboto Slab', serif;
+}
+.change {
+    align-content: center;
+    color:white;
+}
+.changea{
+    align-content: center;
+    padding-left: 200px;
+    margin-left: 80px;
+    margin-right: 50px;
+    text-align: center;
+}
+.Abtstyle{
+    text-align: center;
+    color:white;
+    font-family: 'Roboto Slab', serif;
+    font-size: 30px;
+}
+    .do{
+      font-family: 'Roboto Slab', serif;
+      font-size:20px;
+      color:red;
+    }
+.tab{
+    background-color:#021d3b;
+}
+.responsive {
+    padding: 10px 10px;
+    float: left;
+    margin: auto;
+    margin-left: 30px;
+
+}
+.ser{
+    text-align: center;
+    color:#021d3b;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+.desc{
+    text-align: center;
+    background-color:white;
+    color:red;
+    padding:15px;
+    font-weight: bold;
+}
+.img {
+    border: 1px solid #021d3b;
+}
+.con{
+    background-color: #021d3b;
+}
+.conus{
+    text-align: center;
+    color:#021d3b;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+
+.btnone{
+    position: relative;
+    margin:0;
+    left:30%;
+    
+}
